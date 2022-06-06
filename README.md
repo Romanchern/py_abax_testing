@@ -1,4 +1,3 @@
-# test exercise of abax company
 # Test Automation coding challenge
 
 ## Public API
